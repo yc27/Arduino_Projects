@@ -8,6 +8,7 @@
     * Arduino UNO
     * Bluetooth Module (HC-05)
     * Servo Motor
+    * Resistors
     * LED
     * Push Button
     * Jumper Wires
